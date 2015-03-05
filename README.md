@@ -4,7 +4,7 @@
 
 2. Run `npm install`
 
-3. Add cert.pem and key.pem to root folder
+3. Add `cert.pem` and `key.pem` to root folder
 
 4. Add device token to `/api/controllers/TestController.js`
 
