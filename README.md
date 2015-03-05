@@ -10,5 +10,5 @@
 
 # Important pieces
 
-* `/config/bootstrap.js` configures and starts the connection with APNs
-* `/api/controllers/TestController.js` contains a web service endpoint `/test/foo` that attempts to send a notification with `pushNotification()`
+* `/config/bootstrap.js` -- configures and starts the connection with APNs and adds the connection object to the [sails app object](http://sailsjs.org/#!/documentation/concepts/Globals?q=overview)
+* `/api/controllers/TestController.js` -- contains a web service endpoint `/test/foo` that attempts to send a notification with `pushNotification()`
