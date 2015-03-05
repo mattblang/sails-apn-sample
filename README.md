@@ -1,4 +1,4 @@
-# sails-apn-sample
+# Instructions
 
 1. Check out project
 
