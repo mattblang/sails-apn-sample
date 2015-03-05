@@ -2,11 +2,13 @@
 
 1. Check out project
 
-2. Add cert.pem and key.pem to root folder
+2. Run `npm install`
 
-3. Add device token to `/api/controllers/TestController.js`
+3. Add cert.pem and key.pem to root folder
 
-3. Start server with `node app.js`
+4. Add device token to `/api/controllers/TestController.js`
+
+5. Start server with `node app.js`
 
 # Important pieces
 
